@@ -14,3 +14,11 @@ En este bootcamp de inteligecia artificial, he aprendido:
 * Personajes relevantes en la IA
 * Generar mapas conceptuales con IA.
 * Generar imagenes con IA.
+
+# Comentario compañero bootcamp IA Yamid martinez
+## “La mente que se abre a una nueva idea nunca volverá a su tamaño original”. (Albert Einstein)
+## “Siempre parece imposible hasta que se hace”. (Nelson Mandela)
+
+# Este es un comentario de Sofi
+
+"El aprendizaje es el desarrollo de la capacidad de hacer algo que no se podía hacer antes." -Seymour Papert
